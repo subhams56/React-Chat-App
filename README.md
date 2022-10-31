@@ -1,3 +1,9 @@
+
+# To Clone the Repo
+`$ git clone https://github.com/subhams56/React-Chat-App`
+
+
+
 ## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
