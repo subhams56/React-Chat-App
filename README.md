@@ -19,7 +19,7 @@ It correctly bundles React in production mode and optimizes the build for the be
 
 
 
-### CHAKRA-UI 
+## CHAKRA-UI 
 
 Chakra UI is a simple, modular and accessible component library that gives you the building blocks you need to build your React applications.
 
@@ -30,15 +30,15 @@ npm i @chakra-ui/react @emotion/react @emotion/styled framer-motion.
 After installing Chakra UI, you need to set up the ChakraProvider at the root of your application. This can be either in your index.jsx, index.tsx or App.jsx depending on the framework you use.
 
 
-### FIREBASE
+## FIREBASE
 
 Firebase is a set of hosting services for any type of application. It offers NoSQL and real-time hosting of databases, content, social authentication, and notifications, or services, such as a real-time communication server.
 
 
-### Netlify 
+## Netlify 
 
 Netlify is a remote-first cloud computing company that offers a development platform that includes build, deploy, and serverless backend services for web applications and dynamic websites.
 
 
-PROJECT BY : Subham Saha 
+### PROJECT BY : Subham Saha 
 inspired from various youtube react tutorials.
