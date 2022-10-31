@@ -1,7 +1,7 @@
 
 # To Clone the Repo
-## `$ git clone https://github.com/subhams56/React-Chat-App`
 
+### `$ git clone https://github.com/subhams56/React-Chat-App`
 
 
 ## Getting Started with Create React App
